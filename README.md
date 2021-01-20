@@ -1,5 +1,5 @@
 # MDN Web Docs What is accessibility? MarkDown排版
-### 参照[可访问性](https://developer.mozilla.org/zh-CN/docs/Learn/Accessibility)
+### 参照[什么是可访问性](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility)
 # 什么是可访问性
 可访问性是一种让尽可能多的用户可以使用你的网站的做法。
 传统上我们认为这只与残疾人士有关，但提升网站的可访问性也可以让其他用户群体受益。
